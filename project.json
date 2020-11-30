@@ -41,29 +41,29 @@
     "fileInfoCollection": [
       {
         "editingStatus": "InProgress",
-        "testCaseId": "ec4b655f-f0a0-4799-a604-f4a995fd40e9",
+        "testCaseId": "a7c14c28-bc58-4f7a-88fd-636d3080156a",
         "dataVariationFilePath": ".variations\\Split_Deposit测试数据_Sheet1.json",
         "fileName": "Split_Deposit测试用例.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "f88eacee-2cc2-4600-8630-e4dffd9ba93d",
+        "testCaseId": "7e17a8b0-0065-46d1-9b4e-313fe3ec0abd",
         "dataVariationFilePath": "",
         "fileName": "RPA测试用例.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "c6e36d73-93cc-4fb5-8d2b-7b741a9cd527",
+        "testCaseId": "2bd712e7-bc3b-417f-bf73-e06dd781a649",
         "fileName": "Mock测试用例.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "abc142f1-d04a-4bdd-9947-455eed2c5301",
+        "testCaseId": "e9fad10e-79e1-444b-a25f-50a6788c12c1",
         "fileName": "模拟测试用例.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "3a2d6e7c-49c5-4488-b634-63496f03e2b1",
+        "testCaseId": "61d054be-4510-444b-bd7f-1f5b7eecbb62",
         "dataVariationFilePath": ".variations\\数据驱动测试数据_TestData.json",
         "fileName": "数据驱动测试用例.xaml"
       }
