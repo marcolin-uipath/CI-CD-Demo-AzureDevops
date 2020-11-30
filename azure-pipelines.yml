@@ -29,5 +29,5 @@ steps:
   inputs:
     orchestratorConnection: 'TestSuite'
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
-    folderName: 'default'
+    folderName: 'marco.lin'
     environments: 'MarcoLin'
