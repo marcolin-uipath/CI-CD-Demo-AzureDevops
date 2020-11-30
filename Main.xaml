@@ -447,7 +447,7 @@
                 <av:PointCollection x:Key="ConnectorLocation">350,503 350,537</av:PointCollection>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <Sequence DisplayName="Withdrawal" sap:VirtualizedContainerService.HintSize="376,910.5" sap2010:WorkflowViewState.IdRef="Sequence_9">
+            <Sequence DisplayName="Withdrawal" sap:VirtualizedContainerService.HintSize="200,67" sap2010:WorkflowViewState.IdRef="Sequence_9">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -636,7 +636,7 @@
           <av:PointCollection x:Key="ConnectorLocation">350,174 350,197</av:PointCollection>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <Sequence sap2010:Annotation.AnnotationText="Logon" DisplayName="Logon UiDemo" sap:VirtualizedContainerService.HintSize="200,67" sap2010:WorkflowViewState.IdRef="Sequence_8">
+      <Sequence sap2010:Annotation.AnnotationText="Logon" DisplayName="Logon UiDemo" sap:VirtualizedContainerService.HintSize="376,332.5" sap2010:WorkflowViewState.IdRef="Sequence_8">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -644,7 +644,7 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
         <ui:KillProcess ContinueOnError="{x:Null}" Process="{x:Null}" DisplayName="终止进程" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="KillProcess_1" ProcessName="UiDemo" />
-        <ui:StartProcess Arguments="{x:Null}" WorkingDirectory="{x:Null}" DisplayName="Open 'UIDemo.exe  UiDemo'" FileName="DoubleUI.exe" sap:VirtualizedContainerService.HintSize="334,87" sap2010:WorkflowViewState.IdRef="StartProcess_1" />
+        <ui:StartProcess WorkingDirectory="{x:Null}" Arguments="abc" DisplayName="Open 'UIDemo.exe  UiDemo'" FileName="DoubleUI.exe" sap:VirtualizedContainerService.HintSize="334,87" sap2010:WorkflowViewState.IdRef="StartProcess_1" />
         <ui:CommentOut DisplayName="注释掉" sap:VirtualizedContainerService.HintSize="334,51.5" sap2010:WorkflowViewState.IdRef="CommentOut_1">
           <ui:CommentOut.Body>
             <Sequence DisplayName="已忽略的活动" sap:VirtualizedContainerService.HintSize="200,67" sap2010:WorkflowViewState.IdRef="Sequence_12">
